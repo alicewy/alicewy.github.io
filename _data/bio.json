@@ -1,6 +1,6 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Alice Chen",
     "label": "Student",
     "picture": "https://techfolios.github.io/template/images/molly.png",
     "email": "molly@hawaii.edu",
@@ -61,12 +61,8 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "HTML/CSS"
       ]
     },
     {
