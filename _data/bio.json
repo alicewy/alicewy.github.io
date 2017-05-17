@@ -22,18 +22,18 @@
       },
       {
         "network": "linkedin",
-        "username": "alice",
+        "username": "alicewy",
         "url": "https://www.linkedin.com/in/alicewy"
       },
       {
         "network": "twitter",
         "username": "",
-        "url": "http://twitter.com/changeme"
+        "url": ""
       },
       {
         "network": "instagram",
         "username": "",
-        "url": "http://instagram.com/changeme"
+        "url": ""
       }
     ]
   },
