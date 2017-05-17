@@ -76,9 +76,9 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2020)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2016-05-22",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -87,9 +87,9 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
+      "company": "UH Manoa Learning Assistance Center",
+      "position": "Tutor",
+      "website": "http://manoa.hawaii.edu/undergrad/learning",
       "startDate": "2015-08-01",
       "endDate": "Present",
       "summary": "Head of online presence for Ka Leo",
