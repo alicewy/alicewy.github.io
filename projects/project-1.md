@@ -9,8 +9,23 @@ labels:
   - Java
 summary: A cat dating simulator game my team developed for ICS 111.
 ---
-<img class="ui centered middle image" src="../images/home.png">
 
 Purrsuasion is a cat dating simulator developed by me, Logan Uyeda, and Jaystin Garcia for our final project in our ICS 111 class, Introduction to Computer Science. In the game, the player has the choice of dating three cat characters from the Neko Atsume Franchise. The first cat that the player has the option of selecting is Xerxes, after pursuing and conquering Xerxes, do the other two cat's routes unlock. 
 
 <img class="ui centered middle image" src="../images/selection.png">
+
+Some dialogue from the game includes:
+
+```
+Xerxes: Hm? What brings you here?  Did you purrhaps want to date me? You've got to be kitten me!  I'm not that easy! At least talk to me first!
+
+Character selection choices:
+ 
+ • You are so purrrty
+ • You smell like kitty litter
+ • How is your day going so far?
+
+```
+Depending on the player's selection, Xerxes' affection either raises, or decreases, and when it is high enough, the player is prompted to go on a date between two different dating locations.
+
+<img class="ui centered middle image" src="../images/coffeeDate.png">
