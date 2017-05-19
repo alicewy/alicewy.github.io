@@ -24,8 +24,21 @@ Character selection choices:
  • You are so purrrty
  • You smell like kitty litter
  • How is your day going so far?
-
+ 
+ 
+ 
+Xerxes: It's a bit chilly don't you think?
+ 
+Character selection choices:
+ 
+ • You look like you're comfortable
+ • Definitely. The weather's really bipolar.
+ • I like the color of your fur.
+ 
 ```
-Depending on the player's selection, Xerxes' affection either raises, or decreases, and when it is high enough, the player is prompted to go on a date between two different dating locations.
+Depending on the player's selection, Xerxes' affection either raises, or decreases, and when it is high enough, the player is prompted to go on a date, with the option of two different dating locations.
+
+In one scene:
 
 <img class="ui centered middle image" src="../images/coffeeDate.png">
+
