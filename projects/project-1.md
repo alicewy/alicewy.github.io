@@ -9,11 +9,11 @@ labels:
   - Java
 summary: A cat dating simulator game my team developed for ICS 111.
 ---
-<img class="ui centered middle image" width = "30%" src="../images/home.png">
+<img class="ui centered middle image" width = "50%" src="../images/home.png">
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/Catincup.png" width = "40%">
-  <img class="ui image" src="../images/Xerxescat.png"width = "40%">
+  <img class="ui image" src="../images/Catincup.png">
+  <img class="ui image" src="../images/Xerxescat.png">
   <img class="ui image" src="../images/Franny.png">
 
 </div>
