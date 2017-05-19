@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/fridgeeLogo.png
 title: Fridgee
 permalink: projects/fridgee
 date: 2016
