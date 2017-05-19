@@ -90,27 +90,13 @@
       "company": "UH Manoa Learning Assistance Center",
       "position": "Tutor",
       "website": "http://manoa.hawaii.edu/undergrad/learning",
-      "startDate": "2015-08-01",
+      "startDate": "2016-01-03",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Tutor for Introduction to Computer Science I and Discrete Mathematics for Computer Science I",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
       ]
     },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
+   
   "volunteer": [
     {
       "organization": "Center for Renewable Energy and Island Sustainability",
