@@ -80,9 +80,19 @@
       "company": "UH Manoa Learning Assistance Center",
       "position": "Tutor",
       "website": "http://manoa.hawaii.edu/undergrad/learning",
-      "startDate": "2016-01-03",
+      "startDate": "2017-01-03",
       "endDate": "Present",
       "summary": "Tutor for Introduction to Computer Science I and Discrete Mathematics for Computer Science I",
+      "highlights": [
+      ]
+    },
+     {
+      "company": "Ka Leo O Hawaii",
+      "position": "Web Staff Writer",
+      "website": "http://www.manoanow.org",
+      "startDate": "2016-09-03",
+      "endDate": "Present",
+      "summary": "Wrote content for Ka Leo’s Mānoa Now webpage",
       "highlights": [
       ]
     }
