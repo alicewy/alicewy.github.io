@@ -14,6 +14,8 @@ labels:
 summary: My team developed a food recommendation application for the 2017 NASA hackathon Space Apps Challenge.
 ---
 
+<img class="ui centered middle image" src="../images/fridgeeLogo.png">
+
 Fridgee is a food recommendation application that was created for the 2017 NASA Space Apps Challenge under the category "What's for Dinner?"
 The app takes in user input of the contents in a fridge in order to recommend recipes for foodstuffs closing to their expiration date, to tackle the issue of excess waste.
 The application recommends recipes if there is at least a 70% match of ingredients, and also offers a list of food preservation tips.
