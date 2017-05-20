@@ -4,7 +4,7 @@ type: project
 image: images/fridgeeLogo.png
 title: Fridgee
 permalink: projects/fridgee
-date: 2016
+date: 2017
 labels:
   
   - AndroidStudio
