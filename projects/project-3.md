@@ -2,15 +2,15 @@
 layout: project
 type: project
 image: images/LearningAssistanceCenter.jpg
-title: Tutoring a Door Off
-permalink: projects/LAC
+title: Converting an F to a C
+permalink: projects/TemperatureConverter
 date: 2017
 labels:
   
   - Discrete Mathematics
   - Java
   
-summary: I tutor ICS 111: Introduction to Computer Science, and ICS 141: Discrete Mathematics for Computer Science.
+summary: A temperature conversion program with a user interface that converts a temperature from fahrenheit to celsius, given the fahrenheit input.
 ---
 
 <img class="ui centered middle image" width = "35%" src="../images/fridgeeLogo.png">
