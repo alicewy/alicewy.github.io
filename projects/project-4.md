@@ -1,12 +1,10 @@
- ---
+---
 layout: project
 type: project
--image: images/fridgeeLogo.png
--title: Fridgee
--permalink: projects/fridgee
-+image: images/LearningAssistanceCenter.png
-+title: Tutoring at the Learning Assistance Center
-+permalink: projects/LearningAssistanceCenter
+image: images/fridgeeLogo.png
+title: Fridgee
+permalink: projects/fridgee
+
 date: 2017
 labels:
     
