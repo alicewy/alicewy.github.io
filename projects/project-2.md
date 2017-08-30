@@ -8,7 +8,7 @@ date: 2016 - Present
 labels:
   
   - Java
-  - Discrete Mathematics
+  - Discrete Math
   
 summary: I tutor for ICS 111 Introduction to Computer Science and ICS 141 Discrete Mathematics for Computer Science. 
 ---
