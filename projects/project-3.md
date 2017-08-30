@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/fridgeeLogo.png
-title: Converting an F to a C
-permalink: projects/TemperatureConverter
+image: images/LearningAssistanceCenter.jpg
+title: Tutoring a Door Off
+permalink: projects/LAC
 date: 2017
 labels:
   
