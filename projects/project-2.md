@@ -18,7 +18,7 @@ summary: I tutor for ICS 111 Introduction to Computer Science and ICS 141 Discre
 
 
 
-Lessons Learned
+Lessons Learned:
 
 
 
