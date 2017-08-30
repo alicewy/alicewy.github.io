@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/LearningAssistanceCenter.jpg
-title: Tutoring at the Learning Assistance Center
+title: Tutoring a Door Off
 permalink: projects/LearningAssistanceCenter
 date: 2016 - Present
 labels:
@@ -19,12 +19,6 @@ summary: I tutor for ICS 111 Introduction to Computer Science and ICS 141 Discre
 
 
 Lessons Learned
-
-
-
-
-
-
 
 
 
