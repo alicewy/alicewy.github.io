@@ -9,8 +9,8 @@ labels:
   
   -
   
-summary: My team developed a food recommendation application for the 2017 NASA hackathon Space Apps Challenge.
+summary: 
 ---
 
-<img class="ui centered middle image" width = "35%" src="../images/LearningAssistanceCenter.jpg">
+<img class="ui centered middle image" src="../images/LearningAssistanceCenter.jpg">
 
