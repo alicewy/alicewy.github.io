@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/LearningAssistanceCenter.png
+image: images/LearningAssistanceCenter.jpg
 title: Tutoring at the Learning Assistance Center
 permalink: projects/LearningAssistanceCenter
 date: 2017
