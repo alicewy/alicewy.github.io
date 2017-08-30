@@ -7,10 +7,10 @@ permalink: projects/LAC
 date: 2017
 labels:
   
-  - C
+  - Discrete Mathematics
   - Java
   
-summary: A temperature conversion program with a user interface that converts a temperature from fahrenheit to celsius, given the fahrenheit input.
+summary: I tutor ICS 111: Introduction to Computer Science, and ICS 141: Discrete Mathematics for Computer Science.
 ---
 
 <img class="ui centered middle image" width = "35%" src="../images/fridgeeLogo.png">
