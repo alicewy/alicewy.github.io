@@ -7,8 +7,8 @@ permalink: projects/LearningAssistanceCenter
 date: 2016 - Present
 labels:
   
-  -Java
-  -Discrete Mathematics
+  - Java
+  - Discrete Mathematics
   
 summary: 
 ---
