@@ -4,7 +4,7 @@ type: project
 image: images/LearningAssistanceCenter.jpg
 title: Tutoring a Door Off
 permalink: projects/LAC
-date: 2017
+date: 2016
 labels:
   
   - Discrete Mathematics
