@@ -15,7 +15,13 @@ summary: My experiences tutoring for ICS 111 Introduction to Computer Science an
 
 <img class="ui centered middle image" src="../images/LearningAssistanceCenter.jpg">
 
+<h4>The interview process</h4>
 
 
+<h4>The first Tutee</h4>
 
-Lessons Learned:
+
+<h4>The reason behind the Door</h4>
+
+
+<h4>Lessons Learned:</h4>
