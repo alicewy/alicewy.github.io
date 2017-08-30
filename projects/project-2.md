@@ -1,13 +1,13 @@
 ---
 layout: project
 type: project
-image: images/fridgeeLogo.png
-title: Converting an F to a C
-permalink: projects/TemperatureConverter
+image: images/LearningAssistanceCenter.jpg
+title: Tutoring a Door Off
+permalink: projects/LAC
 date: 2017
 labels:
   
-  - C
+  - Discrete Mathematics
   - Java
   
 summary: A temperature conversion program with a user interface that converts a temperature from fahrenheit to celsius, given the fahrenheit input.
