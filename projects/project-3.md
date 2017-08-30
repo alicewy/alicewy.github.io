@@ -7,7 +7,7 @@ permalink: projects/TemperatureConverter
 date: 2017
 labels:
   
-  - Discrete Mathematics
+  - C
   - Java
   
 summary: A temperature conversion program with a user interface that converts a temperature from fahrenheit to celsius, given the fahrenheit input.
