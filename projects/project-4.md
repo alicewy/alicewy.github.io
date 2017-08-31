@@ -11,6 +11,7 @@ labels:
  - AndroidStudio
  - mySQL
  - php
+ - cPanel
 
 summary: My team developed a food recommendation application for the 2017 NASA hackathon Space Apps Challenge.
 ---
