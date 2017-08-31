@@ -34,8 +34,9 @@ But, what I also did do that was recommended, unintentionally and naturally, was
 
 In one of my experiences tutoring, after leaving a learning pod, the door came off. Hence, how I decided on the title tutoring (until) a door (came) off. 
 
-Aside from helping people and talking about ICS, which are both pretty good things, and even more so since I get to do them together; but, one of the best perks, is undoubtedly, Adam's dog, buddy:
-
 <img class="ui centered middle image" src="../images/buddy.png" width = "25%" height = "25%">
+
+Aside from helping people and talking about ICS, which are both pretty good things, and even more so since I get to do them together; but, one of the best perks, is undoubtedly, Adam's dog, Buddy.
+
 
 
