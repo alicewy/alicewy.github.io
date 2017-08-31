@@ -19,12 +19,12 @@ I knew what all of them
 entailed, and I couldn't imagine my life going in either direction. And then, perchance, it somehow happened that I found out that Computer 
 Science was a major. Without even a second thought about the rest, I immediately decided to declare a Computer Science major, even if I
 really didn't know anything about programming, but I couldn't help but think: "this is very, very, very much cooler." Now perhaps, because
-of the irrational passion I have for the major, but even if I experience difficulties, and I often do, I have never thought of doing anything
+of the irrational passion I have for the major, even if I experience difficulties, and I often do, I have never thought of doing anything
 else.
 
 
 <img class="ui centered medium image" width= "50%" src="../images/passion.jpg">
-**<small><center> “If you do what you love, you’ll never work a day in your life.” -Marc Anthony </center></small>**
+<small><center> “If you do what you love, you’ll never work a day in your life.” -Marc Anthony </center></small>
 
 
 ## Software Engineering and its usefulness
@@ -40,10 +40,3 @@ I've heard good things about this class, so I hope and expect that this course w
 - Improvement in knowledge and towards becoming a ***Full Stack Developer***
 - Proficiency in logic and programming in person
 - Professional Development
-
-## Interests
-
-
-
-
-
