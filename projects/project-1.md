@@ -6,7 +6,9 @@ title: Purrsuasion
 permalink: projects/purrsuasion
 date: 2016
 labels:
+
   - Java
+
 summary: A cat dating simulator game me and my team developed for our ICS 111 final project. Xerxes was certainly my favorite cat, and therefore the first playable character.
 ---
 <b> What's this now? </b>
