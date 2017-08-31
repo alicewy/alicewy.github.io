@@ -26,7 +26,7 @@ The app uses a Optical Character Recognition (OCR) API by google to scan a recei
 
 You can learn more about the category the app targeted at [NASA SpaceApps](https://2017.spaceappschallenge.org/challenges/earth-and-us/whats-dinner/details).
 
-<img class="ui centered middle image" width = "35%" src="../images/roughfridgee.jpg">
+<img class="ui centered middle image" src="../images/roughfridgee.jpg">
 <small> The rough draft one of our members drew for the project! </small>
 
 <b> So what did I do ? </b>
