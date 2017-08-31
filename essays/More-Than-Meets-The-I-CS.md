@@ -23,7 +23,8 @@ of the irrational passion I have for the major, but even if I experience difficu
 else.
 
 
-<img class="ui centered medium image" width= "50%" src="../images/passion.jpg"><small> "if you do what you love you'll never have to work" </small>
+<img class="ui centered medium image" width= "50%" src="../images/passion.jpg">
+<small><center> "if you do what you love you'll never have to work" </center></small>
 
 
 ## Software Engineering and its usefulness
