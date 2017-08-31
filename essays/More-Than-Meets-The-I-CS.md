@@ -24,7 +24,7 @@ else.
 
 
 <img class="ui centered medium image" width= "50%" src="../images/passion.jpg">
-<small><center> “If you do what you love, you’ll never work a day in your life.” -Marc Anthony </center></small>
+**<small><center> “If you do what you love, you’ll never work a day in your life.” -Marc Anthony </center></small>**
 
 
 ## Software Engineering and its usefulness
