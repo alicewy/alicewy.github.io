@@ -24,7 +24,7 @@ The app uses a Optical Character Recognition (OCR) API by google to scan a recei
 
 You can learn more about the category the app targeted at [NASA SpaceApps](https://2017.spaceappschallenge.org/challenges/earth-and-us/whats-dinner/details).
 
-<b> So what I do ? <\b>
+<b> So what did I do ? <\b>
 During this hackathon, my roles were to help create a short script in php and mySQL for a tab for preservation tips and researching information for the tips, and doing a voice over for a video presentation. I gave a voice over of the workings of the product while another member recorded the video and edited.
 
 <b> The experience </b>
