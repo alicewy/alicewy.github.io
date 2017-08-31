@@ -21,7 +21,7 @@ do with Computer Science on the surface. Neither of those majors really made me 
 I knew what all of them
 entailed, and I couldn't imagine my life going in either direction. And then, perchance, it somehow happened that I found out that Computer 
 Science was a major. Without even a second thought about the rest, I immediately decided to declare a Computer Science major, even if I
-really didn't know anything about programming, but I couldn't help but think: "this is very, very, very much cooler." To top it off, I realized that there are many things that can be done with programming, and that it can aid in different fields of studies. It didn't feel like choosing a major was restricting my future, or I'd run out of options. But now perhaps, because
+really didn't know anything about programming, but I couldn't help but think: "this is very, very, very much cooler." To top it off, I realized that there are many things that can be done with programming, and that it can aid in different fields of studies. It didn't feel like choosing a major was restricting my future, or I'd run out of options. And now, perhaps because
 of this irrational passion I have for the major, even if I experience difficulties, and I often do, I have never thought of doing anything
 else.
 
