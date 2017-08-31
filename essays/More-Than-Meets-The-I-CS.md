@@ -15,6 +15,9 @@ To begin with, I have never had any doubt that ICS was the right major for me. I
 between five choices to major in - Biology, Economics, English, Political Science, and Psychology. Neither of which really had anything to
 do with Computer Science on the surface. Neither of those majors really made me feel excited about them, either. 
 
+<img class="ui centered medium image" width= "50%" src="../images/tired.jpg">
+**<small><center> A visual representation of a conversation to myself, thinking of my future with those options </center></small>**
+
 I knew what all of them
 entailed, and I couldn't imagine my life going in either direction. And then, perchance, it somehow happened that I found out that Computer 
 Science was a major. Without even a second thought about the rest, I immediately decided to declare a Computer Science major, even if I
