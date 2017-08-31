@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/home.png
+image: images/purrhome.png
 title: Purrsuasion
 permalink: projects/purrsuasion
 date: 2016
