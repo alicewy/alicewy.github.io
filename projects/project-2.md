@@ -34,8 +34,8 @@ But, what I also did do that was recommended, unintentionally and naturally, was
 
 In one of my experiences tutoring, after leaving a learning pod, the door came off. Hence, how I decided on the title tutoring (until) a door (came) off. 
 
-Aside from helping people and talking about ICS, which are both pretty good things, and even more so since I get to do them together, one of the best perks, is buddy:
+Aside from helping people and talking about ICS, which are both pretty good things, and even more so since I get to do them together; but, one of the best perks, is undoubtedly, buddy:
 
-<img src="../images/IMG_1754.jpg" width = "50%">
+<img src="../images/IMG_1754.JPG" width = "50%">
 
 
