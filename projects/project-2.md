@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/LearningAssistanceCenter.jpg
+image: images/LAC.png
 title: Tutoring a Door Off
 permalink: projects/LAC
 date: 2016
