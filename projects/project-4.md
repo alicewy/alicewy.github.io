@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/fridgeeLogo.png
+image: images/fridgeeLogoCover.png
 title: Fridgee
 permalink: projects/fridgee
 
