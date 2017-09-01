@@ -37,6 +37,7 @@ The degree of difficulty did ramp up in comparison to the freecodecamp tutorials
 - Learning one of the most used language, if not the top most used
 - Taking a step into creating a presence on a Professional Network
 
+
 ## Module (and WOD) Cons
 
 - Personal practice WODs were assigned before in-class practice WODs (I began reading instructions and included it as part of the time) 
@@ -44,6 +45,7 @@ The degree of difficulty did ramp up in comparison to the freecodecamp tutorials
 - Possibility of lag, screen freezing, or internet connection issues during a WOD causing a DNF (Connect issue happened to me once, luckily I finished)
 - A stressful experience in completing a WOD with 100% accuracy and with a fast time
 - One missing comma with JSON files, and page build errors won't stop
+
 
 ## My Verdict
 
