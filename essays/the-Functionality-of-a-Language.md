@@ -19,7 +19,7 @@ This essay is a reflection on the following ICS 314 Module on JavaScript:
 
 I never learned the JavaScript language prior to this class, I did learn beforehand that JavaScript could be used for backend programming; that is, if I were to use node.js. The JavaScript experience through the freecodecamp.com tutorial, however, I found very easy and intuitive. The most problem I had with the tutorial was only overthinking the problem. I can only remember one instance of really being stuck, and it was because of a bad habit of mine in reinventing the wheel. It was a problem that was very simple and only required two lines of code, that I spent time trying to write a dozen or so lines to solve.
 
-<img src="../images/fcc.png" width = "50%">
+<img src="../images/fcc.png" width = "70%">
 
 **<small><center> The problem I was stuck on, with the answer included </center></small>**
 
@@ -55,7 +55,7 @@ I was able to learn the syntax of a widely used new programming language, and al
 For instance, when I wanted to randomly disperse lower and uppercase Ms (the letter) to say "Hm" in an interesting way, to emphasize that I was thinking to my friend, but could not help but create a pattern when I physically typed it myself.
 Thus, the creation of the "Hmm" function, was born.
 
-<img src="../images/hmm.png" width = "50%">
+<img src="../images/hmm.png" width = "70%">
 
 **<small><center> The "Hmm" function in action (displayed in console on right having ran three times) </center></small>**
 
