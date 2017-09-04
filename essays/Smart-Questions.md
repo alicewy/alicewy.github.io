@@ -12,5 +12,6 @@ labels:
 <h5> He who asks a question is a fool for five minutes; he who does not ask a question remains a fool forever. <a href="https://www.forbes.com/sites/mikemaddock/2013/07/09/the-best-question-to-ask-people-who-are-really-smart-so-you-can-learn-from-them/#32dbaa503513">- Chinese Proverb, Mike Maddock</a> </h5>
 
 ##  
-<img class="ui medium circular image" src="../images/lost.png">
-
+<div class="ui segment">
+  <img class="ui small left floated image" src="../images/lost.png">
+</div>
