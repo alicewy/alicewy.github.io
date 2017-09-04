@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: More Than Meets The I(CS)
-date: 2017-05-18
+date: 2017-08-18
 labels:
   - Questions
   - Answers
