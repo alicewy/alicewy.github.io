@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Smart Questions
+title: "Not all that wander are lost, but I sure am"
 date: 2017-09-04
 labels:
   - Questions
