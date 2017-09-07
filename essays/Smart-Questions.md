@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Not all that wander are lost, but I sure am" - Doge Meme
+title: "Not all that wander are lost, but I sure am" *- Doge Meme*
 date: 2017-09-04
 labels:
   - Questions
