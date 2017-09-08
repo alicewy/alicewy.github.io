@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Not all that wander are lost, but I sure am"
+title: "Question...able"
 date: 2017-09-04
 labels:
   - Questions
