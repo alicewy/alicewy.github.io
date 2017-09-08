@@ -14,7 +14,17 @@ labels:
 Smart questions 
 
 
+
 ## Poorly asked questions vs. Smart Questions
+
+The criteria for asking good questions, by  <a href = “http://www.catb.org/esr/faqs/smart-questions.html“>- Eric S. Raymond and Rick Moen:</a>
+1.	Try to find an answer by searching the archives of the forum or mailing list you plan to post to.
+2.	Try to find an answer by searching the Web.
+3.	Try to find an answer by reading the manual.
+4.	Try to find an answer by reading a FAQ.
+5.	Try to find an answer by inspection or experimentation.
+6.	Try to find an answer by asking a skilled friend.
+7.	If you're a programmer, try to find an answer by reading the source code.
 
 <h2> A Poorly Asked Question</h2>
 <img src="../images/poor.png">
