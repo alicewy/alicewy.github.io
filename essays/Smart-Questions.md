@@ -21,7 +21,9 @@ A better way instead to ask the question would be "MyFitnessPal application iOS 
 
 The reason I mentioned these questions, is because it is more likely to receive a better answer when including more specifications into a question. There are also some ways a question can be asked that would result in unhelpful responses. In the first case, for instance, if the app and version types were not specified, then there is no telling if the question will be answered properly. Waiting for an answer for a few minutes up until a week only to receive an answer that is not applicable to the situation would only be a waste of time as well.
 
-In another case, when asking on stack overflow, too specific questions will be marked **closed** and determined as being too specific to be any use to the general public, so questions asked might not even be answered. Questions such as those might be unrelated to post on stack overflow to start with, and might be better to ask the product's distributors. This is why there is value in knowing when to ask, rather than wasting O(n^2) time when waiting for a reply, it is imperative that users first figure when it is relevant, as Raymond and Moen had stated, and why a smart question that is also asked in context might decrease the time it requires to respond. 
+In another case, when asking on stack overflow, too specific questions will be marked **closed** and determined as being too specific to be any use to the general public, so questions asked might not even be answered. Questions such as those might be unrelated to post on stack overflow to start with, and might be better to ask the product's distributors. 
+
+This is why there is value in knowing when to ask, rather than wasting O(n^2) time when waiting for a reply, it is imperative that users first figure when it is relevant, as Raymond and Moen had stated, and why a smart question that is also asked in context might decrease the time it requires to respond. 
 
 ## Now to review: Poorly asked questions vs. Smart Questions
 
@@ -43,18 +45,27 @@ The criteria before asking good questions, by  <a href = "http://www.catb.org/es
 
 From those criterias, I have located the following:
 
-<h2>Poorly Asked Questions</h2>
+<h2>Poorly Asked Questions, and why</h2>
 1.<img src="../images/poor.png" width = "100%">
 
+
+
+
 2.<img src="../images/poor1.png" width = "100%">
+
+
 
 3.<img src="../images/poor2.png" width = "100%">
 
 
-<h2>Smart Questions</h2>
+<h2>Smart Questions and why</h2>
 1.<img src="../images/good.png" width = "100%">
 
+
+
 2.<img src="../images/good1.png" width = "100%">
+
+
 
 3.<img src="../images/good2.png" width = "100%">
 
