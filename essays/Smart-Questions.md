@@ -17,7 +17,7 @@ Smart questions
 
 ## Poorly asked questions vs. Smart Questions
 
-The criteria for asking good questions, by  <a href = "http://www.catb.org/esr/faqs/smart-questions.html" target="_blank"> -Eric S. Raymond and Rick Moen:</a>
+The criteria for asking good questions, by  <a href = "http://www.catb.org/esr/faqs/smart-questions.html" target="_blank"> http://www.catb.org/esr/faqs/smart-questions.html -Eric S. Raymond and Rick Moen:</a>
 1.	Try to find an answer by searching the archives of the forum or mailing list you plan to post to.
 2.	Try to find an answer by searching the Web.
 3.	Try to find an answer by reading the manual.
