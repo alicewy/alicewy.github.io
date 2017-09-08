@@ -34,12 +34,12 @@ The criteria before asking good questions, by  <a href = "http://www.catb.org/es
 From those criterias, I have located the following:
 
 <h2>Poorly Asked Questions</h2>
-1.<img src="../images/poor.png">
-2.<img src="../images/poor1.png">
-3.<img src="../images/poor2.png">
+1.<img src="../images/poor.png" width = "100%">
+2.<img src="../images/poor1.png" width = "100%">
+3.<img src="../images/poor2.png"width = "100%">
 
 <h2>Smart Questions</h2>
-1.<img src="../images/good.png">
-2.<img src="../images/good1.png">
-3.<img src="../images/good2.png">
+1.<img src="../images/good.png"width = "100%">
+2.<img src="../images/good1.png"width = "100%">
+3.<img src="../images/good2.png"width = "100%">
 
