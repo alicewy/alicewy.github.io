@@ -46,22 +46,46 @@ The criteria before asking good questions, by  <a href = "http://www.catb.org/es
 From those criterias, I have located the following:
 
 <h2>Poorly Asked Questions, and why</h2>
-1.<img src="../images/poor.png" width = "100%">
 
+1. The "is it even legal ?" case
 
+<img src="../images/poor.png" width = "100%">
 
+In this instance, a stack overflow user asks how to decrypt a password, and some replies he received were: 
 
-2.<img src="../images/poor1.png" width = "100%">
+This sounds like you're trying to do something that you shouldn't. Care to clarify? 
 
+The reason why this is a bad question is because it should not have been done in the first place. In the end, the most helpful reply this user received did not even answer their question properly. The most helpful reply asked if the user was "running afoul of the law" and explained how hashing worked, and how it is unlikely for someone to unhash a password hash since a hash was created to encrypt the password in the first place.
 
+<a href = "https://stackoverflow.com/questions/16635159/how-to-decrypt-this-password-hash"> link to the stack overflow question</a>
 
-3.<img src="../images/poor2.png" width = "100%">
+2. What's a loop ?
 
+<img src="../images/poor1.png" width = "100%">
+
+Answering their question only required using a loop. Even the user seemed to know what a loop was, since they asked "How can I create a loop that goes back to the beginning stage?" Something such as a loop is also usually one of the most basic concepts in Computer Science, so it could be googled as well. Not to mention, learning any language, even through some online sites such as <a href = "http://learn-c.org/">learn-c </a> would teach a concept such as a simple while loop. 
+
+Furthermore, the question was "Forcing a function to return if false", which did not really pertain too much to the question they asked after, which was a loop that goes back to the beginning state. This is not only confusing to the person answering, this also caused the question to be closed due to being irrelevant to the subject.
+
+<a href = "https://stackoverflow.com/questions/21068763/forcing-a-function-to-return-if-false"> link to the stack overflow question</a>
+
+3. Infinte loops?
+
+<img src="../images/poor2.png" width = "100%">
+
+This question sent the problem and a code snippet, albeit it did not identify the line of codes of with the error, however, with a small issue of not incrementing the variable j, the problem could had been solved in faster as another user specified, if they had a debugger installed. 
+
+This seemed to be an error of only missing one line, as well, so asking the question and waiting for the reply would most likely have taken more time than it would have to debug.
+
+<a href = "https://stackoverflow.com/questions/19314079/why-it-is-an-infinite-loop"> link to the stack overflow question</a>
 
 <h2>Smart Questions and why</h2>
-1.<img src="../images/good.png" width = "100%">
 
+1. Just Regular Expressions /^((
 
+<img src="../images/good.png" width = "100%">
+
+This question is generic, and would be largely relevant to many people doing web programming. Because the question is so general, and the question explains pretty much all the question needs to explain. Because of those reasons, the question was not closed, so not obtaining a good answer is no issue.  On top of which, the user includes five tags, even if they were similar in topics, as opposed to only one. 
 
 2.<img src="../images/good1.png" width = "100%">
 
@@ -69,3 +93,6 @@ From those criterias, I have located the following:
 
 3.<img src="../images/good2.png" width = "100%">
 
+## Ways to solve problems before asking the Question
+
+<a href = "https://rubberduckdebugging.com/">Rubber ducky method</a>
