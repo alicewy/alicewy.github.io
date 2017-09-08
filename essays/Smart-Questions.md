@@ -47,7 +47,7 @@ From those criterias, I have located the following:
 
 <h2>Poorly Asked Questions, and why</h2>
 
-1. The "is it even legal ?" case
+<h3>1. The "is it even legal ?" case</h3>
 
 <img src="../images/poor.png" width = "100%">
 
@@ -59,7 +59,7 @@ The reason why this is a bad question is because it should not have been done in
 
 <a href = "https://stackoverflow.com/questions/16635159/how-to-decrypt-this-password-hash"> link to the stack overflow question</a>
 
-2. What's a loop ?
+<h3>2. What's a loop ?</h3>
 
 <img src="../images/poor1.png" width = "100%">
 
@@ -69,7 +69,7 @@ Furthermore, the question was "Forcing a function to return if false", which did
 
 <a href = "https://stackoverflow.com/questions/21068763/forcing-a-function-to-return-if-false"> link to the stack overflow question</a>
 
-3. Infinte loops?
+<h3>3. Infinte loops?</h3>
 
 <img src="../images/poor2.png" width = "100%">
 
@@ -81,18 +81,17 @@ This seemed to be an error of only missing one line, as well, so asking the ques
 
 <h2>Smart Questions and why</h2>
 
-1. Just Regular Expressions /^((
+<h3>1. Just Regular Expressions /^(( </h3>
 
 <img src="../images/good.png" width = "100%">
 
 This question is generic, and would be largely relevant to many people doing web programming. Because the question is so general, and the question explains pretty much all the question needs to explain. Because of those reasons, the question was not closed, so not obtaining a good answer is no issue.  On top of which, the user includes five tags, even if they were similar in topics, as opposed to only one. 
 
-2.<img src="../images/good1.png" width = "100%">
+<a href = "https://stackoverflow.com/questions/46155/how-to-validate-email-address-in-javascript"> link to the stack overflow question</a>
 
+<h3>2. Stack and Heap</h3>
+<img src="../images/good2.png" width = "100%">
 
+The supplemented information was relevant to the question, displayed all relevant code, while still maintaining a general enough reply. Not to mention, the person who published this post went into specifics about what they want to know about what a stack and a heap are, showing that they know of what the two are, and have only asked for an explanation in simpler terms.
 
-3.<img src="../images/good2.png" width = "100%">
-
-## Ways to solve problems before asking the Question
-
-<a href = "https://rubberduckdebugging.com/">Rubber ducky method</a>
+<a href = "https://stackoverflow.com/questions/79923/what-and-where-are-the-stack-and-heap"> link to the stack overflow question</a>
