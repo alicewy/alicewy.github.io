@@ -13,11 +13,10 @@ labels:
 
 Smart questions 
 
-
-
 ## Poorly asked questions vs. Smart Questions
 
-The criteria for asking good questions, by  <a href = "http://www.catb.org/esr/faqs/smart-questions.html"> -Eric S. Raymond and Rick Moen:</a>
+The criteria before asking good questions, by  <a href = "http://www.catb.org/esr/faqs/smart-questions.html"> -Eric S. Raymond and Rick Moen:</a>
+
 1.	Try to find an answer by searching the archives of the forum or mailing list you plan to post to.
 2.	Try to find an answer by searching the Web.
 3.	Try to find an answer by reading the manual.
@@ -25,9 +24,21 @@ The criteria for asking good questions, by  <a href = "http://www.catb.org/esr/f
 5.	Try to find an answer by inspection or experimentation.
 6.	Try to find an answer by asking a skilled friend.
 7.	If you're a programmer, try to find an answer by reading the source code.
+8.  Describe the symptoms of your problem or bug carefully and clearly.
+9.  Describe the environment in which it occurs (machine, OS, application, whatever). Provide your vendor's distribution and release level (e.g.: “Fedora Core 7”, “Slackware 9.1”, etc.).
+10.  Describe the research you did to try and understand the problem before you asked the question.
+11.  Describe the diagnostic steps you took to try and pin down the problem yourself before you asked the question.
+12.  Describe any possibly relevant recent changes in your computer or software configuration.
+13.  If at all possible, provide a way to reproduce the problem in a controlled environment.
 
-<h2> A Poorly Asked Question</h2>
-<img src="../images/poor.png">
+From those criterias, I have located the following:
 
-<h2> A Smart Question</h2>
+<h2>Poorly Asked Questions</h2>
+1.<img src="../images/poor.png">
+2.<img src="../images/poor1.png">
+3.<img src="../images/poor2.png">
 
+<h2>Smart Questions</h2>
+1.
+2.
+3.
