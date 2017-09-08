@@ -8,10 +8,14 @@ labels:
   - Answers
   - Career Goals
 ---
-## What are smart questions? How do you ask them, and how they can benefit you
+## Essay Background
+
+This technical essay is written in response of Eric S. Raymond and Rick Moen's passage, titled <b>"How To Ask Questions The Smart Way"</b>.
+
+## Why is asking a smart question important for software engineers?
 <h6><img src="../images/piece.jpg" width = "100%">He who asks a question is a fool for five minutes; he who does not ask a question remains a fool forever.<a href="https://www.forbes.com/sites/mikemaddock/2013/07/09/the-best-question-to-ask-people-who-are-really-smart-so-you-can-learn-from-them/#32dbaa503513"> - Chinese Proverb, Mike Maddock</a> </h6>
 
-Smart questions 
+
 
 ## Poorly asked questions vs. Smart Questions
 
