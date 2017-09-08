@@ -39,6 +39,7 @@ From those criterias, I have located the following:
 3.<img src="../images/poor2.png">
 
 <h2>Smart Questions</h2>
-1.
-2.
-3.
+1.<img src="../images/good.png">
+2.<img src="../images/good1.png">
+3.<img src="../images/good2.png">
+
