@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Green Checkmarks?
-date: 2017-08-18
+date: 2017-09-20
 labels:
   - Questions
   - Answers
@@ -17,7 +17,7 @@ The question asked from the link "I believe some coding standards can actually h
 
 Based on my experience, reading poorly formatted code from the beginning has made learning the language more difficult. Issues arose from missing curly braces or the braces ending before or after the right place in the code, causing semantic errors. Oftentimes when I encountered these issues, as a beginner, I attributed the errors as an error in logic, and began to try every which way to fix it, mainly through brute force, taking much longer than necessary in completing the problem.
 
-<img class="ui centered medium image" width = "70%" src="../images/loss.jpg">
+<img class="ui centered medium image" width = "100%" src="../images/loss.jpg">
 
 But I believe that the biggest issue with semantic errors such as those, wouldn't be losing **n**-many hours in the process, the biggest issue might well be the loss in confidence in pursuing a career in programming. Believing that you are wrong, that you will be wrong, and finding something like programming meaningless. If that is the case, there would be no progress whatsoever, even if the issue was eventually solved, it would have effectively done more damage than losing an hour of work.
 
