@@ -9,7 +9,12 @@ labels:
   - Career Goals
 ---
 
-This essay is targeted towards answering the question from the following link: 
+This essay is targeted towards addressing the questions on coding standards from the following link: 
+
 http://courses.ics.hawaii.edu/ics314f17/morea/coding-standards/experience-coding-standards-technical-essay.html
 
-## Coding Standards
+## My Experience
+
+
+
+
