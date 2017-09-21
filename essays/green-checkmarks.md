@@ -50,7 +50,7 @@ function ziplist(list1, list2)
 
 The issue was that the order of list2[i]!==undefined should have been swapped with list1[i]!==undefined, which gave weak warnings, but nonetheless prevented the green checkmark. Although, I do find the suggestions useful for the most part to keep a consistency in the coding style.
 
-##Side Note
+## Side Note
 
 Although it is not an issue with obtaining the *green checkmark* in IntelliJ, but while programming ziplist for a previous assignment, I did not make use of camelCasing, as I assumed ziplist to be the entire word. Doing so just caused a spelling error. The same issue occurred with using a URL in the html file for <script src ="...."> </script>.  For more information, on the ziplist program, <a href = "https://github.com/alicewy/ziplist"> click here </a>
 
