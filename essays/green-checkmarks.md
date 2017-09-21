@@ -9,9 +9,7 @@ labels:
   - Career Goals
 ---
 
-This essay is targeted towards addressing the questions on coding standards from the following link: 
-
-http://courses.ics.hawaii.edu/ics314f17/morea/coding-standards/experience-coding-standards-technical-essay.html
+This essay is targeted towards addressing the questions on coding standards, <a href= "http://courses.ics.hawaii.edu/ics314f17/morea/coding-standards/experience-coding-standards-technical-essay.html">click here</a> for more information.
 
 ## First, to address the BIGGEST issue ...
 
@@ -31,9 +29,10 @@ Addressing the question:  After your first week of using ESLint with IntelliJ, w
 
 I frankly quite enjoy using IntelliJ, although it could be more or less confusing at times (especially with changing preferences on a Windows OS when given the MAC OS run down). But even though I do like using the IntelliJ IDEA... The green checkmark in ESLint is not really on my list of favorites. Although I would understand where the green checkmark would be useful, but there were certain cases such as the following lines of code:
 
-{
+
 function ziplist(list1, list2)
 {
+
     var local = [];
 
     for (var i = 0; i < (list1.length + list2.length)/2; i++)
@@ -46,8 +45,9 @@ function ziplist(list1, list2)
         }
     }
     return local;
+    
 }
-}
+
 The issue was that the order of list2[i]!==undefined should have been swapped with list1[i]!==undefined, which gave weak warnings, but nonetheless prevented the green checkmark. Although, I do find the suggestions useful for the most part to keep a consistency in the coding style.
 
 ##Side Note
