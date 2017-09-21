@@ -15,7 +15,7 @@ http://courses.ics.hawaii.edu/ics314f17/morea/coding-standards/experience-coding
 
 ## My Experience
 
-<img class="ui centered medium image" src="../images/camel.png">
+<img class="ui centered medium image" width = "70%" src="../images/camel.png">
 
 
 
