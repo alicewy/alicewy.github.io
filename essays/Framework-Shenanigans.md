@@ -11,7 +11,7 @@ labels:
 This essay is written to address the 
 <a href = "http://courses.ics.hawaii.edu/ics314f17/morea/ui-frameworks/experience-ui-frameworks-technical-essay.html"> module on Semantic UI</a>.
 
-<img src = "https://onextrapixel.com/wp-content/uploads/2017/02/useful-tools-and-services-2017.jpg">
+<img src = "https://onextrapixel.com/wp-content/uploads/2017/02/useful-tools-and-services-2017.jpg" width = 100%>
 
 ## The UItility of Semantic UI
 
