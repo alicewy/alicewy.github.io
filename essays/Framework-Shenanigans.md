@@ -7,7 +7,9 @@ labels:
   - Questions
   - Answers
 ---
-This essay is written to address the module on Semantic UI.
+
+This essay is written to address the 
+<a href = "http://courses.ics.hawaii.edu/ics314f17/morea/ui-frameworks/experience-ui-frameworks-technical-essay.html"> module on Semantic UI</a>.
 
 ## The UItility of Semantic UI
 
