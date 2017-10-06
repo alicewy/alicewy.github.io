@@ -1,12 +1,23 @@
 ---
 layout: essay
 type: essay
-title: Semantical Shenanigans
-date: 2017-08-18
+title: Semantic Shenanigans
+date: 2017-10-05
 labels:
   - Questions
   - Answers
-  - Career Goals
 ---
+This essay is written to address the module on Semantic UI.
 
+## The UItility of Semantic UI
+
+Throughout the week of learning semantic ui, I found its primary usefulness in how intuitive the naming had been.  The language involved in the framework made it easy enough to understand what is being done, in the same manner of speaking and describing something as English.  For example, to create three buttons in a row semantic ui has a class called "ui three buttons", which would also fit a concise and neat style. 
+
+## Not to mention, containers ...
+
+The framework has container classes which fit to the device type's width and heights.  A class called ui grid, also includes responsive classes for different platforms, such as to enter or remove columns or rows.
+
+## ui.issues and "ui goals"
+
+If it isn't enough of a guess, one of the issues I faced with semantic ui was changing the style with CSS. For instance, the following <a class = "fitted item"> insert filler example words here </a> specifying font color or style etc in CSS would be a.fitted.item { insert code here } but, that's where some of the issues arose, and where debugging takes the longest.  So a "ui goal", improving in using the framework to successfully make nice pages is a must.
 
