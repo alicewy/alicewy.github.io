@@ -36,3 +36,6 @@ and payments can even be made through your UH Manoa account, using Campus Cash!
 ## Beyond the basics
 - Shortest path algorithm for vendors to deliver
 - Simple update and removal for Events tab and Daily special and deals tab
+- Checkout removing and adding items to the cart
+- User Settings (Notifications or not, pay using .... Campus Cash or Visa/ etc subway giftcards...)
+
