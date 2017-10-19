@@ -21,7 +21,10 @@ and payments can even be made through your UH Manoa account, using Campus Cash!
 - Can make multiple purchases 
 - Home page (Big letters saying Deliver (You)HM with background pic
 - Specials/Deals Tab
-- 
+- Search bar/filter 
+- Clicking on stores tab goes to filter page
+- User login on the right most side
+- Events tab (related to UHM students)
 
 ## Use Case 
 
@@ -31,7 +34,5 @@ and payments can even be made through your UH Manoa account, using Campus Cash!
 - No Worries!
 
 ## Beyond the basics
-- Shortest path algorithm
-
-
-
+- Shortest path algorithm for vendors to deliver
+- Simple update and removal for Events tab and Daily special and deals tab
