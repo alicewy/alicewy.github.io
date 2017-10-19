@@ -22,49 +22,13 @@ The programming languages I have learned so far before taking ICS 314 were mostl
 
 **The first issue I came across...**
 
-The first issue I came across was during an in-class WOD for ICS 314, and during that in class WOD, I found out that I could call the functions from a different class by specifying the function name inside of curly braces. Here's the example, it was the simple Meteor template that was given:
-<head>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.2/semantic.min.css">
-  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.2/semantic.min.js"></script>
-  <title>app</title>
-  <link href="main.js">
-
-</head>
-<body>
-<div class = "ui text container">
-  <h1>Welcome to Meteor!</h1>
-
-  {{> hello}}
-  {{> info}}
-</div>
-
-</body>
-
-<template name="hello">
-  <button>Click Me</button>
-  <p>You've pressed the button {{counter}} times.</p>
-    {{thatsAlot}} <!-- This here was the issue!--->
-</template>
-
-<template name="info">
-  <h2>Learn Meteor!</h2>
-  <ul>
-    <li><a href="https://www.meteor.com/try" target="_blank">Do the Tutorial</a></li>
-    <li><a href="http://guide.meteor.com" target="_blank">Follow the Guide</a></li>
-    <li><a href="https://docs.meteor.com" target="_blank">Read the Docs</a></li>
-    <li><a href="https://forums.meteor.com" target="_blank">Discussions</a></li>
-  </ul>
-</template>
-
-
-
-
-
+The first issue I came across was during an in-class WOD for ICS 314, and during that in class WOD, I found out that I could call the functions from a different class by specifying the function name inside of curly braces. 
 
 **The second issue **
 
+The second issue I came across, was understanding how different uses of the directories provided such as the client directories, the index.html file, etc. had to link together, how not linking them together with provided files caused issues with the project setup.
 
-**Spotting syntax errors**
+
 
 
 
