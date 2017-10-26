@@ -35,6 +35,3 @@ Meteor seems incredibly useful, especially with its responsive web design and ma
 Beginning with Meteor for the first time and working on a project such as <a href = "https://github.com/alicewy/digits">digits</a>, I made such a big mistake that caused the rest of the digit WODs to fail miserably.  As my master branch maintained as the first digit Work Out Of the Day (WOD, the sixth one), I'd create a branch for the second (Sounds OK so far...?) AND THEN (Uh oh) the third, from the same master branch, without creating the branch from the second branch, which would make sense since digits was a week cumulative type of work...
 
 To emphasize how big of an issue that it really was, I would be trying to learn how to complete my third WOD for digits, which included making a working add contacts page, except my third WOD was actually built from my first WOD, meaning I wouldn't have had all the files I'd needed to use to complete my third WOD, which might cause one to even encounter page build errors.
-
-
- 
