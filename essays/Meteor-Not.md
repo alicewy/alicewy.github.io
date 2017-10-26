@@ -15,7 +15,7 @@ This essay is written to address my first experience with using Meteor, and addr
 
 **A little bit of ...Background Information?** 
 
-Pun Vocabulary Definition: "dispense or allot justice, a punishment, or harsh treatment." - <a href = "https://www.google.com/search?ei=gAHyWZbFN6qQ0gKJlLngCg&q=mete&oq=mete&gs_l=psy-ab.3..0i67k1l3j0j0i67k1l3j0j0i67k1l2.2096.2096.0.2364.1.1.0.0.0.0.161.161.0j1.1.0....0...1.1.64.psy-ab..0.1.159....0.GvQ0HTMETLs"> Google </a> 
+Pun Vocabulary Definition: "dispense or allot justice, a punishment, or harsh treatment." - <a href = "https://www.google.com/search?ei=gAHyWZbFN6qQ0gKJlLngCg&q=mete&oq=mete&gs_l=psy-ab.3..0i67k1l3j0j0i67k1l3j0j0i67k1l2.2096.2096.0.2364.1.1.0.0.0.0.161.161.0j1.1.0....0...1.1.64.psy-ab..0.1.159....0.GvQ0HTMETLs"> Google</a> 
 
 ## Meteor metes
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Dizzy_lines_of_corridor.jpg">
