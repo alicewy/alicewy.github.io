@@ -18,9 +18,6 @@ This essay is written to address my first experience with using Meteor, and addr
 Pun Vocabulary Definition: "dispense or allot justice, a punishment, or harsh treatment." - <a href = "https://www.google.com/search?ei=gAHyWZbFN6qQ0gKJlLngCg&q=mete&oq=mete&gs_l=psy-ab.3..0i67k1l3j0j0i67k1l3j0j0i67k1l2.2096.2096.0.2364.1.1.0.0.0.0.161.161.0j1.1.0....0...1.1.64.psy-ab..0.1.159....0.GvQ0HTMETLs"> Google</a> 
 
 ## Meteor metes
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Dizzy_lines_of_corridor.jpg">
-<small>A graphical representation of the confusion experienced in the process of learning Meteor.</small>
-<small><b>PHOTO CREDIT: <a href ="https://upload.wikimedia.org/wikipedia/commons">Wikimedia Commons</a></b><small>
 
 Just like the vocabulary definition of mete, my experience as a first time user of Meteor was definitely a new experience, with quite the punishing learning curve. Instances where I made mistakes were everywhere, being unsure of how updating a page would affect the webpage as a whole, for instance, if I created a file, and did not make updated on a file such as the index.js to import that file, it would be unused. Of course, they weren't just small and relatively obvious example such as those, but for directories or different files which require the support of one another, the biggest issue became organizing which with what. 
 
