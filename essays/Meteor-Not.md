@@ -19,7 +19,11 @@ Pun Vocabulary Definition: "dispense or allot justice, a punishment, or harsh tr
 
 ## Meteor metes
 
-Just like the vocabulary definition of mete, my experience as a first time user of Meteor was definitely a new experience, with quite the punishing learning curve. Instances where I made mistakes were everywhere, being unsure of how updating a page would affect the webpage as a whole, for instance, if I created a file, and did not make updated on a file such as the index.js to import that file, it would be unused. Of course, they weren't just small and relatively obvious example such as those, but for directories or different files which require the support of one another, the biggest issue became organizing which with what. 
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Dizzy_lines_of_corridor.jpg">
+<small>A graphical representation of the confusion experienced in the process of learning Meteor.</small>
+<small><b>PHOTO CREDIT:</b><small> <a href ="upload.wikimedia.orgs">Wikimedia Commons</a>
+
+Just like the vocabulary  of mete, my experience as a first time user of Meteor was definitely a new experience, with quite the punishing learning curve. Instances where I made mistakes were everywhere, being unsure of how updating a page would affect the webpage as a whole, for instance, if I created a file, and did not make updated on a file such as the index.js to import that file, it would be unused. Of course, they weren't just small and relatively obvious example such as those, but for directories or different files which require the support of one another, the biggest issue became organizing which with what. 
 
 <b>Was there anything easy?</b> Perhaps, the easiest part was using the command line involved with meteor, which simply involved envoking the few commands, for one particular instance, if meteor was not installed in the directory, envoke meteor npm install. Then, there was meteor npm run start. 
 
