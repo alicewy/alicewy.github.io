@@ -18,8 +18,7 @@ This essay is written to address my first experience with using Meteor, and addr
 Pun Vocabulary Definition: "dispense or allot justice, a punishment, or harsh treatment." - <a href = "https://www.google.com/search?ei=gAHyWZbFN6qQ0gKJlLngCg&q=mete&oq=mete&gs_l=psy-ab.3..0i67k1l3j0j0i67k1l3j0j0i67k1l2.2096.2096.0.2364.1.1.0.0.0.0.161.161.0j1.1.0....0...1.1.64.psy-ab..0.1.159....0.GvQ0HTMETLs"> Google </a> 
 
 ## Meteor metes
-<img src = src="../images/dizzy.png">
-
+<img src="../images/dizzy.png">
 <small>A graphical representation of the confusion experienced in the process of learning Meteor. - by, Unknown</small>
 
 Just like the vocabulary definition of mete, my experience as a first time user of Meteor was definitely a new experience, with quite the punishing learning curve. Instances where I made mistakes were everywhere, 
