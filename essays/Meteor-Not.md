@@ -19,7 +19,7 @@ Pun Vocabulary Definition: "dispense or allot justice, a punishment, or harsh tr
 
 ## Meteor metes
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Dizzy_lines_of_corridor.jpg">
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Dizzy_lines_of_corridor.jpg" width = 80%>
 <small>A graphical representation of the confusion experienced in the process of learning Meteor.</small>
 <small><b>PHOTO CREDIT:</b><small> <a href ="upload.wikimedia.orgs">Wikimedia Commons</a>
 
