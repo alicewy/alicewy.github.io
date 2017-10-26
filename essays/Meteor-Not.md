@@ -19,6 +19,7 @@ Pun Vocabulary Definition: "dispense or allot justice, a punishment, or harsh tr
 
 ## Meteor metes
 <img src = "https://cdn.pixabay.com/photo/2014/05/30/17/06/trees-358418_960_720.jpg" width = 80%>
+<caption> A graphical representation of the confusion experienced in the process of learning Meteor. - by, Unknown </caption>
 Just like the vocabulary definition of mete, my experience as a first time user of Meteor was definitely a new experience, with quite the punishing learning curve. Instances where I made mistakes were everywhere, 
 
 ## Fatal mistakes, and the largest time complexity ...
