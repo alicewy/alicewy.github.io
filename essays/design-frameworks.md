@@ -16,10 +16,11 @@ This essay is written to address the
  
 Picture this - Christmas is coming up, and to celebrate the theme, you want to make snowmen and snowflake shaped cookies. You'll have the option of hand-cutting the cookies yourself, or using some cookie cutters you already have.
 
-Of course, if you were me, hand cutting would result in the snowmen cookies looking like this:
+<b>Of course, if you were me, hand cutting would result in the snowmen cookies looking like this:</b>
+
 <img src = "http://cdn.pophangover.com/images/ugly-snowman-2009-5.jpg" width = "70%"> 
 
-and the snowflake....
+<b>and the snowflake....</b>
 
 <img src = "https://cdn.drawception.com/images/panels/2012/5-28/Q39MFTf162-4.png" width = "80%"> 
 
