@@ -17,9 +17,11 @@ This essay is written to address the
 Picture this - Christmas is coming up, and to celebrate the theme, you want to make snowmen and snowflake shaped cookies. You'll have the option of hand-cutting the cookies yourself, or using some cookie cutters you already have.
 
 Of course, if you were me, hand cutting would result in the snowmen cookies looking like this:
-<img src = "http://cdn.pophangover.com/images/ugly-snowman-2009-5.jpg" width = "30%"> 
+<img src = "http://cdn.pophangover.com/images/ugly-snowman-2009-5.jpg" width = "70%"> 
+
 and the snowflake....
-<img src = "https://cdn.drawception.com/images/panels/2012/5-28/Q39MFTf162-4.png" width = "30%"> 
+
+<img src = "https://cdn.drawception.com/images/panels/2012/5-28/Q39MFTf162-4.png" width = "80%"> 
 
 unless I spend a large amount of time and effort, I probably wouldn't be able to even closely replicate the nice snowmen and snowflake cookies in the first image, and hand-cutting those cookies would expend a considerable more amount of time, and effort. But, having the cookie-cutters for the snowmen and snowflake would mean I would have a lot more freedom designing with the color, or other aspects of it, to personalize a cookie that already has a relatively nice foundation.
 
