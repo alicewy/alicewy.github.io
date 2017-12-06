@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Generic Templates
+title: The ugly snowman or the pretty snowman?
 date: 2017-12-05
 labels: 
   - Questions
