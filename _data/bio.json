@@ -29,17 +29,17 @@
   },
   "interests": [
     {
-      "name": "networking",
+      "name": "Cryptography",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Artificial Intelligence",
       "keywords": [
       ]
     },
     {
-      "name": "security",
+      "name": "CyberSecurity",
       "keywords": [
       ]
     }
@@ -50,7 +50,10 @@
       "level": "",
       "keywords": [
         "Java",
-        "HTML/CSS"
+        "HTML/CSS",
+        "JavaScript",
+        "C",
+        "C++"
       ]
     },
     {
