@@ -11,7 +11,7 @@ labels:
   - CSS
   - JavaScript
   
-summary: As a member of VendyAwards for ICS 314: Software Engineering I, I was tasked to create the page for the contest winners and the map page, and will mostly highlight my experience using the API.
+summary: As a member of VendyAwards for ICS 314: Software Engineering I, I was tasked to create the page for the contest winners and the map page.
 ---
 
 <img class="ui centered middle image" src="../images/landing.png">
