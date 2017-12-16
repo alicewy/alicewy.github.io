@@ -1,15 +1,15 @@
 ---
 layout: project
 type: project
-image: images/LAC.png
-title: A new experience
-permalink: projects/LAC
-date: 2016
+image: images/landing.png
+title: Mapping Vending Machines
+permalink: projects/VA
+date: 2017
 labels:
   
-  - Discrete Mathematics
-  - Java
-  - Tutoring
+  - HTML
+  - CSS
+  - JavaScript
   
 summary: My experiences tutoring for Information and Computer Sciences (ICS) 111 Introduction to Computer Science and ICS 141 Discrete Mathematics for Computer Science.
 ---
