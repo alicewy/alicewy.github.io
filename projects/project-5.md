@@ -11,30 +11,47 @@ labels:
   - CSS
   - JavaScript
   
-summary: My experiences tutoring for Information and Computer Sciences (ICS) 111 Introduction to Computer Science and ICS 141 Discrete Mathematics for Computer Science.
+summary: As a member of VendyAwards for ICS 314: Software Engineering I, I was tasked to create the page for the contest winners and the map page, and will mostly highlight my experience using the API.
 ---
 
-<img class="ui centered middle image" src="../images/LearningAssistanceCenter.jpg">
-<small> A group picture of me (leftmost, standing) and the other members of the LAC </small>
+<img class="ui centered middle image" src="../images/landing.png">
+<small>The landing page for VendyAwards</small>
 
+<b>The success</b>
 
-<b>A core belief</b>
+Learning how to use an API for the first time was definitely new, luckily the Google Maps API was fairly user-friendly, and issues that resulted
+in failure lay in simple syntax errors in the beginning. Although testing the different codes given from the API took a lot of time, the experience
+was quite enjoyable. For the map, I was able to obtain the user's location using the Google Maps API for Geolocation and mark that point with a marker. 
+I was also able to create markers to populate the map with the locations of the vending machine, and adding markers would be simple as to populate the
+array with the information. All that was left was to find the latitude and longitude of the Vending Machines' positions on the UH Campus, and 
+enter those values to include on the map. I was also able to include the location's name in a pop-up when the markers were clicked. Although the 
+geolocation's main purpose was something entirely different, I had the map centered to the location of the user as well.
 
-As a student, rarely would one hear that a tutor isn't trying to help you get an A. What I said might seem out of the ordinary, but if it is normal, then it would certainly follow the philosophy of the Learning Assistance Center (LAC). The more I attended the trainings, the more I learned what it meant to tutor at the LAC. My job wasn't just to teach a student enough to get an A, but instead, it was to teach them how to learn, and how to become an independent learner. Not to say that the grade didn't matter, but that individual growth was definitely the most valuable aspect, and the vision of the LAC.
+<b>The failure</b>
 
+My intial goal was to have the map so that when the user clicks on a marker, directions leading from the user's current location to the markers' location
+would appear. However, running low on time and testing given code on directions with waypoints given as a sample from the google maps API, which wasn't
+my intention of the map, I ran out of time to create what might have been one of the key features of the map.
 
-<b>The First Tutees, the mistakes, and the ones that will be after</b>
+<b>The last minute compromise</b>
 
-As my first experience with tutoring, I didn't know how much I should do for the students. I really enjoy helping people, but it may have went to excessive straits in the process. I would offer help, study on my own alongside the progress of the course, meet up outside of tutoring sessions, and even give my tutees my email address to ask questions, which I'd do my best to answer. But then, I didn't realize until later that that didn't create independent learners. 
+<img class="ui centered middle image" width = "50%" src="../images/map.png">
 
-But, what I also did do that was recommended, unintentionally and naturally, was give advice. I'd send them all sorts of links to supplement their learning of Information and Computer Sciences (ICS) - links that I would get from talking to other people in ICS about. Little did I realize, that some of those links were actually provided by ICS professors in the upper division classes, and even some of the advice I hear from people, were from the later classes I took. This is just new advice I'd keep in store for people in case they ever feel discouraged - that ICS isn't impossible to do, and it's far from it. For those worried or discouraged, it's usually just because it's a whole new experience, and after going through it all, the changes will really surprise you. 
+Since the directions were a no-go, a group-mate asked me: "What do you think could do, that would be a step down from what you wanted to do in the time we have [to enhance the project]?"
+Thinking about such good advice, I thought, if it's just a simple map, make it so that when you click on the marker point, the map would zoom in on the position
+so that the user can see the streets and the location more accurately, and set the center to the location clicked. That was a functionality that would have been 
+useless if directions were implemented, but the question really had me thinking about improving design on a time constraint.
 
+<b>Other fun features</b>
 
-<b>One of the best perks of being a Tutor</b>
+I included a color gradient navigation bar that I though looked nice, and made great use of Chrome developer tools to alter the CSS values when working on
+the pages I was tasked to do.
 
-<img class="ui centered middle image" src="../images/buddy.png" width = "25%" height = "25%">
+Check out the deployed app for vendyawards at: 
+http://vendyawards.meteorapp.com/
 
-Aside from helping people and talking about ICS, which are both pretty good things, and even more so since I get to do them together; but, one of the best perks, is undoubtedly, Adam's dog, Buddy.
+And the installation guide here at:
+https://vendyawards.github.io/ 
 
 
 
