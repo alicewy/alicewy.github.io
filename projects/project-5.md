@@ -8,10 +8,6 @@ date: 2016
 labels:
 
   - JavaScript
-  - Google Maps API
-  - HTML/CSS
-  - Semantic UI
-  - Meteor
 
 summary: As a member of VendyAwards for ICS 314: Software Engineering I, I was tasked to create the page for the contest winners and the map page, and will mostly highlight my experience using the API.
 ---
