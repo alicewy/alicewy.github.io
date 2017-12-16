@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/LAC.png
-title: Tutoring a Door Off
+title: A new experience
 permalink: projects/LAC
 date: 2016
 labels:
@@ -20,7 +20,7 @@ summary: My experiences tutoring for Information and Computer Sciences (ICS) 111
 
 <b>A core belief</b>
 
-As a student, rarely would one hear that a tutor isn't trying to help you get an A. What I said might seem out of the ordinary, but if it is normal, then it would certainly follow the philosphy at the Learning Assistance Center (LAC). The more I attended the trainings, the more I learned what it meant to tutor at the LAC. My job wasn't only just to teach a student enough to get an A, but instead, it was to teach them how to learn, and how to become an independent learner. Not to say that the grade didn't matter, but that individual growth was definitely the most valuable aspect, and the vision of the LAC.
+As a student, rarely would one hear that a tutor isn't trying to help you get an A. What I said might seem out of the ordinary, but if it is normal, then it would certainly follow the philosophy of the Learning Assistance Center (LAC). The more I attended the trainings, the more I learned what it meant to tutor at the LAC. My job wasn't just to teach a student enough to get an A, but instead, it was to teach them how to learn, and how to become an independent learner. Not to say that the grade didn't matter, but that individual growth was definitely the most valuable aspect, and the vision of the LAC.
 
 
 <b>The First Tutees, the mistakes, and the ones that will be after</b>
@@ -30,9 +30,7 @@ As my first experience with tutoring, I didn't know how much I should do for the
 But, what I also did do that was recommended, unintentionally and naturally, was give advice. I'd send them all sorts of links to supplement their learning of Information and Computer Sciences (ICS) - links that I would get from talking to other people in ICS about. Little did I realize, that some of those links were actually provided by ICS professors in the upper division classes, and even some of the advice I hear from people, were from the later classes I took. This is just new advice I'd keep in store for people in case they ever feel discouraged - that ICS isn't impossible to do, and it's far from it. For those worried or discouraged, it's usually just because it's a whole new experience, and after going through it all, the changes will really surprise you. 
 
 
-<b>The Reason Behind The Title, and one of the best perks of being a Tutor</b>
-
-In one of my experiences tutoring, after leaving a learning pod, the door came off. Hence, how I decided on the title tutoring (until) a door (came) off. 
+<b>One of the best perks of being a Tutor</b>
 
 <img class="ui centered middle image" src="../images/buddy.png" width = "25%" height = "25%">
 
