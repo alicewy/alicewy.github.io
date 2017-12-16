@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/landing.png
+image: images/landing1.png
 title: Mapping Vending Machines
 permalink: projects/VA
 date: 2017
