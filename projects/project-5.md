@@ -12,6 +12,7 @@ labels:
   - JavaScript
   - Google Maps API
   - Semantic UI
+  - Meteor
   
 summary: As a member of VendyAwards for my Software Engineering class, I was tasked to create the page for the contest winners and the map page. This project will highlight my experience mostly with the Google Maps API.
 ---
