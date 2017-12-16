@@ -43,3 +43,8 @@ useless if directions were implemented, but the question really had me thinking 
 I included a color gradient navigation bar that I though looked nice, and made great use of Chrome developer tools to alter the CSS values when working on
 the pages I was tasked to do.
 
+Check out the deployed app for vendyawards at: 
+http://vendyawards.meteorapp.com/
+
+And the installation guide here at:
+https://vendyawards.github.io/
