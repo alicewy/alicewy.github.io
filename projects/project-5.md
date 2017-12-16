@@ -4,6 +4,7 @@ type: project
 image: images/landing.png
 title: Mapping VendyAwards 
 permalink: projects/vendyawards
+
 date: 2017
 labels:
 
