@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/purrhome.png
+image: images/landing.png
 title: Mapping VendyAwards 
 permalink: projects/vendyawards
 date: 2016
