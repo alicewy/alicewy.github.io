@@ -62,7 +62,7 @@
       "startDate": "2016-05-22",
       "endDate": "Present",
       "gpa": "3",
-      "courses": [ "Data Structures", "Program Structure in C/C++", "Algorithms", "Competitive Programming", "Software Engineering I", "Software Engineering II", "Computer System Security", "Security and Trust I", "Database Systems I", "Operating Systems", "Machine-Level and Systems Programming", "Linear Algebra", 
+      "courses": [ "Data Structures", "Program Structure in C/C++", "Algorithms", "Linear Algebra", "Competitive Programming", "Software Engineering I", "Software Engineering II", "Computer System Security", "Computer Security and Ethics", "Security and Trust I", "Database Systems I", "Operating Systems", "Machine-Level and Systems Programming",  
       ]
     }
   ],
