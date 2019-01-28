@@ -27,33 +27,20 @@
       },
     ]
   },
-  "interests": [
-    {
-      "name": "Cryptography",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Artificial Intelligence",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "CyberSecurity",
-      "keywords": [
-      ]
-    }
-  ],
   "skills": [
     {
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
         "Java",
-        "HTML/CSS",
+        "HTML",
+        "CSS",
         "JavaScript",
         "C",
-        "C++"
+        "C++",
+        "LaTeX",
+        "Haskell",
+        "SQL",        
       ]
     },
     {
@@ -62,6 +49,7 @@
       "keywords": [
         "Windows OS",
         "Ubuntu",
+        "Manjaro",
         "Git/GitHub"
       ]
     }
@@ -69,12 +57,12 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2020)",
+      "area": "Computer Science (expected Fall, 2019)",
       "studyType": "B.S.",
       "startDate": "2016-05-22",
       "endDate": "Present",
-      "gpa": "",
-      "courses": [
+      "gpa": "3",
+      "courses": [ "Data Structures", "Program Structure in C/C++", "Algorithms", "Competitive Programming", "Software Engineering I", "Software Engineering II", "Computer System Security", "Security and Trust I", "Database Systems I", "Operating Systems", "Machine-Level and Systems Programming", "Linear Algebra", 
       ]
     }
   ],
@@ -84,8 +72,8 @@
       "position": "Tutor",
       "website": "http://manoa.hawaii.edu/undergrad/learning",
       "startDate": "2017-01-03",
-      "endDate": "Present",
-      "summary": "Tutor for Introduction to Computer Science I and Discrete Mathematics for Computer Science I",
+      "endDate": "2019-01-01",
+      "summary": "Tutor for the Introductory Computer Science courses: Java Programming I & II and Discrete Mathematics I & II",
       "highlights": [
       ]
     },
@@ -94,8 +82,8 @@
       "position": "Web Staff Writer",
       "website": "http://www.manoanow.org",
       "startDate": "2016-09-03",
-      "endDate": "Present",
-      "summary": "Wrote content for Ka Leo’s Mānoa Now webpage",
+      "endDate": "2018-01-01",
+      "summary": "Content writer for Ka Leo’s Mānoa Now webpage",
       "highlights": [
       ]
     }
