@@ -6,7 +6,7 @@
     "email": "alicewy@hawaii.edu",
     "phone": "",
     "website": "https://alicewy.github.io",
-    "summary": "I am currently a student at the University of Hawai'i at Manoa in the process of obtaining a degree for a bachelor of science in Computer Science and for a bachelor of science in Mathematics. I expect to graduate in Fall, 2019.",
+    "summary": "I am currently a student at the University of Hawai'i at Manoa in the process of obtaining a degree for a Bachelor of Science in Computer Science and a Minor in Mathematics. I expect to graduate in Winter, 2020.",
     "location": {
       "address": "",
       "postalCode": "96815",
@@ -39,7 +39,6 @@
         "C",
         "C++",
         "LaTeX",
-        "Haskell",
         "SQL",        
       ]
     },
@@ -50,19 +49,23 @@
         "Windows OS",
         "Ubuntu",
         "Manjaro",
-        "Git/GitHub"
+        "Git",
+        "GraphQL",
+        "Node",
+        "Express",
+        "LoopBack 4",
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
+      "institution": "University of Hawaii at Manoa",
       "area": "Computer Science (expected Fall, 2019)",
       "studyType": "B.S.",
       "startDate": "2016-05-22",
       "endDate": "Present",
       "gpa": "3",
-      "courses": [ "Data Structures", "Program Structure in C/C++", "Algorithms", "Linear Algebra", "Competitive Programming", "Software Engineering I", "Software Engineering II", "Computer System Security", "Computer Security and Ethics", "Security and Trust I", "Database Systems I", "Operating Systems", "Machine-Level and Systems Programming",  
+      "courses": [ "Programming in Java", "Data Structures", "Program Structure in C/C++", "Algorithms", "Discrete Mathematics", "Linear Algebra", "Competitive Programming", "Software Engineering I", "Software Engineering II", "Computer System Security", "Computer Security and Ethics", "Security and Trust I", "Database Systems I", "Operating Systems", "Machine-Level and Systems Programming",  
       ]
     }
   ],
