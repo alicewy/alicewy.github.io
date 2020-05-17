@@ -71,6 +71,16 @@
   ],
   "work": [
     {
+      "company": "Akimeka LLC",
+      "position": "Akamai Software Engineering Intern",
+      "website": "akamaihawaii.org/alice-chen-akamai-2019",
+      "startDate": "2019-06-01",
+      "endDate": "2019-08-01",
+      "summary": "Developed an API Gateway for dataset analysis and validation using GraphQL at Akimeka LLC. Used the LoopBack 4 command line interface, object relational mapper, and oracle database connector to connect to an oracle 11g database used at Akimeka LLC.",
+      "highlights": [
+      ]
+    },
+    {
       "company": "UH Manoa Learning Assistance Center",
       "position": "Tutor",
       "website": "http://manoa.hawaii.edu/undergrad/learning",
@@ -86,7 +96,7 @@
       "website": "http://www.manoanow.org",
       "startDate": "2016-09-03",
       "endDate": "2018-01-01",
-      "summary": "Content writer for Ka Leo’s Mānoa Now webpage",
+      "summary": "Content writer for Ka Leo O Hawaii’s Mānoa Now webpage",
       "highlights": [
       ]
     }
