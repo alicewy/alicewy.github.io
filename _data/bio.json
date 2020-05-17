@@ -73,7 +73,7 @@
     {
       "company": "Akimeka LLC",
       "position": "Akamai Software Engineering Intern",
-      "website": "akamaihawaii.org/alice-chen-akamai-2019",
+      "website": "https://akamaihawaii.org/alice-chen-akamai-2019",
       "startDate": "2019-06-01",
       "endDate": "2019-08-01",
       "summary": "Developed an API Gateway for dataset analysis and validation using GraphQL at Akimeka LLC. Used the LoopBack 4 command line interface, object relational mapper, and oracle database connector to connect to an oracle 11g database used at Akimeka LLC.",
