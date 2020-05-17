@@ -38,8 +38,6 @@ my intention of the map, I ran out of time to create what might have been one of
 
 <b>The last minute compromise</b>
 
-<img class="ui centered middle image" width = "50%" src="../images/map.png">
-
 Since the directions were a no-go, a group-mate asked me: "What do you think could do, that would be a step down from what you wanted to do in the time we have [to enhance the project]?"
 Thinking about such good advice, I thought, if it's just a simple map, make it so that when you click on the marker point, the map would zoom in on the position
 so that the user can see the streets and the location more accurately, and set the center to the location clicked. That was a functionality that would have been 
